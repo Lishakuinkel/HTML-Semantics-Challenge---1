@@ -31,7 +31,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+
 **For reference, below are the links to some of the resources used:
 
 https://www.semrush.com/blog/semantic-html5-guide/
+
 https://developer.mozilla.org/en-US/docs/Glossary/Semantics

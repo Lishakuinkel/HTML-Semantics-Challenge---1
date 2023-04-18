@@ -7,11 +7,13 @@ The goal of this project is to refactor the starter code and meet the assessibil
 This code mainly uses HTML and CSS. 
 
 **User Story**
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 **Acceptance Criteria**
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -25,5 +27,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## For reference, below are the links to some of the resources used:
+
 https://www.semrush.com/blog/semantic-html5-guide/
 https://developer.mozilla.org/en-US/docs/Glossary/Semantics
